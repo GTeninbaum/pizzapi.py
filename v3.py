@@ -23,4 +23,4 @@ else:
 	
 
 #Suggestions/improvements/ideas appreciated!
-Gabe Teninbaum / gteninbaum@suffolk.edu.
+Gabe Teninbaum / gteninbaum@suffolk.edu
