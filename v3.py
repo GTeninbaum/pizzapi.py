@@ -1,4 +1,4 @@
-print "\n\nWELCOME TO PIZZA PR R SQUARED. \n\nWhat's it do?  \n\nIt lets you determine whether buying a small pizza or a large pizza is a better value."
+print "\n\nWELCOME TO PIZZA PI R SQUARED. \n\nWhat's it do?  \n\nIt lets you determine whether buying a small pizza or a large pizza is a better value."
  
 diameter_one = float(raw_input("\nWhat's the first pizza's diameter (in inches)?"))
 cost_one = float(raw_input("\nHow much does the first pizza cost? (in dollars and cents)"))
