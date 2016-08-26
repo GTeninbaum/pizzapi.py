@@ -22,5 +22,5 @@ else:
 	print "\nSame deal per square inch of pizza - they represent the same value."
 	
 
-#I'm a noob python programmer and this is my first script, other than those from "Learn Python the Hard Way."  Suggestions/improvements/ideas appreciated!
-#Feel free to drop me a note at gteninbaum@suffolk.edu.
+#Suggestions/improvements/ideas appreciated!
+Gabe Teninbaum / gteninbaum@suffolk.edu.
