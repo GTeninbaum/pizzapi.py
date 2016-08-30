@@ -3,14 +3,14 @@ print "\n\nWELCOME TO PIZZA PI R SQUARED. \n\nWhat's it do?  \n\nIt lets you det
 diameter_one = float(raw_input("\nWhat's the first pizza's diameter (in inches)?"))
 cost_one = float(raw_input("\nHow much does the first pizza cost? (in dollars and cents)"))
 area_one = (diameter_one / 2) **2 * 3.14
-total_one = cost_one / area_one
+total_one = round(cost_one / area_one, 2)
 
 print "\nWith this pizza, you're paying $%s per square inch." % (total_one)
 
 diameter_two = float(raw_input("\nWhat's the second pizza's diameter (in inches)?"))
 cost_two = float(raw_input("\nHow much does the second pizza cost? (in dollars and cents)"))
 area_two = (diameter_two / 2) **2 * 3.14
-total_two = cost_two / area_two
+total_two = round(cost_two / area_two, 2)
 
 print "\nWith this pizza, you're paying $%s per square inch." % (total_two)
 
